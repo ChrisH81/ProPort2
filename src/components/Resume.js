@@ -15,7 +15,7 @@ const Resume = () => (
                     </h1>
                     <div class="subheading mb-5">
                         4763 Athens Dr · West Jordan, UT 84088 · (801) 529-6249 ·
-                        <a href="mailto:name@email.com">name@email.com</a>
+                        <a href="mailto:name@email.com">kekaneone@gmail.com</a>
                     </div>
                     <p class="lead mb-5">I am fresh full stack programer.</p>
                     <div class="social-icons">
@@ -131,7 +131,7 @@ Reports to board of directors, Maintains and improves quality of services to cli
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Agile Development & Scrum
+                            Agile Development 
                         </li>
                     </ul>
                 </div>
