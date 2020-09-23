@@ -16,79 +16,73 @@ const Portfolio = () => (
         <Card style={{ width: '25rem', float: 'left' }}>
             <Card.Img variant="top" src={Pic} />
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Taskinator</Card.Title>
                 <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                Task management
                 </Card.Text>
-                <Link variant="primary">Go to website</Link>
+                <Link variant="primary">https://chrish81.github.io/taskinator/</Link>
                 <br/>
-                <Link variant="primary">Go to github</Link>
+                <Link variant="primary">https://github.com/ChrisH81/taskinator</Link>
             </Card.Body>
         </Card>
         <Card style={{ width: '25rem', float: 'left' }}>
             <Card.Img variant="top" src={Pic} />
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Weather</Card.Title>
                 <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                Weather tracker
                 </Card.Text>
-                <Link variant="primary">Go to website</Link>
+                <Link variant="primary">https://chrish81.github.io/robot-gladiators/</Link>
                 <br/>
-                <Link variant="primary">Go to github</Link>
+                <Link variant="primary">https://github.com/ChrisH81/robot-gladiators</Link>
             </Card.Body>
         </Card>
         <Card style={{ width: '25rem', float: 'left' }}>
             <Card.Img variant="top" src={Pic} />
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Robot Gladiators</Card.Title>
                 <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                Robot Battle Game
                 </Card.Text>
-                <Link variant="primary">Go to website</Link>
+                <Link variant="primary">https://chrish81.github.io/robot-gladiators/</Link>
                 <br/>
-                <Link variant="primary">Go to github</Link>
+                <Link variant="primary">https://github.com/ChrisH81/robot-gladiators</Link>
             </Card.Body>
         </Card>
         <Card style={{ width: '25rem', float: 'left' }}>
             <Card.Img variant="top" src={Pic} />
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Game Quiz</Card.Title>
                 <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+               N64 Game quiz
                 </Card.Text>
-                <Link variant="primary">Go to website</Link>
+                <Link variant="primary">https://chrish81.github.io/gamequiz/</Link>
                 <br/>
-                <Link variant="primary">Go to github</Link>
+                <Link variant="primary">https://github.com/ChrisH81/gamequiz</Link>
             </Card.Body>
         </Card>
         <Card style={{ width: '25rem', float: 'left' }}>
             <Card.Img variant="top" src={Pic} />
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Social Network</Card.Title>
                 <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                Social network app
                 </Card.Text>
-                <Link variant="primary">Go to website</Link>
+                <Link variant="primary">https://chrish81.github.io/Socialnetwork/</Link>
                 <br/>
-                <Link variant="primary">Go to github</Link>
+                <Link variant="primary">https://github.com/ChrisH81/Socialnetwork</Link>
             </Card.Body>
         </Card>
         <Card style={{ width: '25rem', float: 'left' }}>
             <Card.Img variant="top" src={Pic} />
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Budget Tracker</Card.Title>
                 <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                Track Budget with out the internet
                 </Card.Text>
-                <Link variant="primary">Go to website</Link>
+                <Link variant="primary">https://chrish81.github.io/BudgetTracker/</Link>
                 <br/>
-                <Link variant="primary">Go to github</Link>
+                <Link variant="primary">https://github.com/ChrisH81/BudgetTracker</Link>
             </Card.Body>
         </Card>
     </div> 

@@ -14,10 +14,10 @@ const Resume = () => (
                         <span class="text-primary">CHRIS HUSSEY</span>
                     </h1>
                     <div class="subheading mb-5">
-                        3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
+                        4763 Athens Dr · West Jordan, UT 84088 · (801) 529-6249 ·
                         <a href="mailto:name@email.com">name@email.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <p class="lead mb-5">I am fresh full stack programer.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="#"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#"><i class="fab fa-github"></i></a>
@@ -33,35 +33,41 @@ const Resume = () => (
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                            <h3 class="mb-0">Executive Director.</h3>
+                            <div class="subheading mb-3">Ensign Peak Services</div>
+                            <p>Oversee all aspects of all programs of EPS. Works closely with clinical consultant is a team leader of all staff.
+Makes final decisions on hiring and firing of employees and contractors. Works with state contract administrators, case workers, and auditors.
+Reports to board of directors, Maintains and improves quality of services to clients. Recruiting and training of foster parents and all staff. Marketing and website development and maintenance. Schedule and lead staff meetings. Oversees treatment of clients. Coach and advise trackers and family consultants. Ensure compliance with all contract requirements by all staff members. 
+.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">Sep 2011 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                            <h3 class="mb-0">Quality Assurance Officer</h3>
+                            <div class="subheading mb-3">Musicians Friend</div>
+                            <p>To assure the quality of services for all customers, I monitor calls for sales and services for three sister companies: Guitar Center, Music 123, and Woodwind and Brasswind.  Monitor the inbound calls of sales and customer service reps; take inbound  “overflow” calls for both sales and customer services reps, take “help line” calls for all reps when they need more information about products or services for their customers,  and “take over” calls for all reps when irate customers want to talk to a supervisor.    In the course of the QA position I also respond to inbound customer inquiries and complaints and record orders using standard scripts and procedures, inform customers about products available and assess customer needs, provide advice regarding products and accessories, and accurately handle credit card orders and confidential information.
+.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">November 2001 - August 2011</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Junior Web Designer</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                            <h3 class="mb-0">Car Man</h3>
+                            <div class="subheading mb-3">Progress Rail Services Corporation</div>
+                            <p>PAs a crew member, responsible for inspection and maintenance of work site vehicles and tools; inspection, maintenance, and repair of rail cars; inspection  and service of locomotives; terminal one air brake test, rear locomotive communication, rail car side bearing adjustment (SBA), blue light flag protection in rail yard.  Skills: Certified Flat Welder, Forklift Operation, Torch Cutting.  This is a representation of all job duties.  I will elaborate in a personal interview.
+.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - December 2008</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Design Intern</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                            <h3 class="mb-0">Executive Director</h3>
+                            <div class="subheading mb-3">My T-shirt and Design</div>
+                            <p>Designed t-shirt graphics for local band using Photoshop, then screen printed them, and marketed them to the public.  Did all duties necessary for the business, including bookkeeping, delivery of product and inventory. 
+.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2006 - December 2008</span></div>
                     </div>
                 </div>
             </section>
@@ -72,20 +78,20 @@ const Resume = () => (
                     <h2 class="mb-5">Education</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">University of Colorado Boulder</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Web Development Track</div>
+                            <h3 class="mb-0">University of Utah</h3>
+                            <div class="subheading mb-3">Coding Cirtificate</div>
+                            <div>Computer Science - Web Development</div>
                             <p>GPA: 3.23</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">James Buchanan High School</h3>
-                            <div class="subheading mb-3">Technology Magnet Program</div>
+                            <h3 class="mb-0">Garnger High School</h3>
+                            <div class="subheading mb-3">Video Technology Program/Diploma</div>
                             <p>GPA: 3.56</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 1997 - May 2000</span></div>
                     </div>
                 </div>
             </section>
@@ -135,8 +141,8 @@ const Resume = () => (
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                    <p>Apart from being a business owner, I enjoy most of my time being outdoors. I play several musical instruments and enjoy recording and producing music with my free time and among friends.</p>
+                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring producer, and I spend a large amount of my free time exploring the latest technology in recording and production.</p>
                 </div>
             </section>
             <hr class="m-0" />
@@ -147,42 +153,9 @@ const Resume = () => (
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Google Analytics Certified Developer
+                            U or U Boot camp cirtificate
                         </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
-                        </li>
+
                     </ul>
                 </div>
             </section>
